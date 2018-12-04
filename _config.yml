@@ -1,7 +1,7 @@
 # Site settings
 title: QUERYPENG Blog
 SEOTitle: QUERYPENG的博客 | QUERYPENG Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/web_background.jpg
 email: pengfengxe@163.com
 description: "Every failure is leading towards success."
 keyword: "QUERYPENG, QUERYPENG Blog, QUERYPENG的博客, querypeng, mac, iOS, spring, java"
@@ -11,18 +11,18 @@ github_repo: "https://github.com/querypeng/querypeng.github.io.git" # you code r
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Stop struggling, life is stopped."
 sidebar-avatar: /img/christopher-page.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+weibo_username:     runner彭
+#zhihu_username:     qiubaiying
+github_username:    querypeng
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
